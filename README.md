@@ -249,14 +249,10 @@ Frontend runs at: http://localhost:5173
 
 ---
 
-## License
+## 👨‍💻 Developed By
 
-This project is developed as part of the Post Graduate Certification Program in Advanced Computing (PGCP-AC) at C-DAC, [IACSD Akurdi].
+### **Dhawal Turkar**
+*CDAC Post Graduate Diploma (Solo Developer)*
 
----
-
-## Author
-
-**Dhawal Turkar**
-Email: [dhawalturkar@gmail.com]
-LinkedIn: [https://www.linkedin.com/in/dhawal-turkar/]
+[![GitHub](https://img.shields.io/badge/GitHub-dhawalturkar0612-181717?style=flat&logo=github)](https://github.com/dhawalturkar0612)
+[![Email](https://img.shields.io/badge/Email-dhawalturkar%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhawalturkar@gmail.com)
