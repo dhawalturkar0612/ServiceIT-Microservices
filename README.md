@@ -258,6 +258,5 @@ This project is developed as part of the Post Graduate Certification Program in 
 ## Author
 
 **Dhawal Turkar**
-PGCP-AC, C-DAC [IACSD]
 Email: [dhawalturkar@gmail.com]
 LinkedIn: [https://www.linkedin.com/in/dhawal-turkar/]
